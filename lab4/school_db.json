@@ -1,0 +1,30 @@
+{
+    "departments": {
+        "next_id": 3,
+        "rows": {
+            "1": {
+                "id": 1,
+                "name": "IT"
+            },
+            "2": {
+                "id": 2,
+                "name": "HR"
+            }
+        }
+    },
+    "employees": {
+        "next_id": 103,
+        "rows": {
+            "101": {
+                "id": 101,
+                "name": "Alice",
+                "dept_id": 1
+            },
+            "102": {
+                "id": 102,
+                "name": "Bob",
+                "dept_id": 2
+            }
+        }
+    }
+}
